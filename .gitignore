@@ -5,6 +5,9 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# csv file
+*.csv
+
 # Windows default autosave extension
 *.asv
 
